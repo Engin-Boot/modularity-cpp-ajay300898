@@ -1,5 +1,6 @@
 #ifndef TELCOCOLORCODER
 #define TELCOCOLORCODER
+#include "manual.h"
 namespace TelCoColorCoder {
     enum MajorColor {WHITE, RED, BLACK, YELLOW, VIOLET};
     enum MinorColor {BLUE, ORANGE, GREEN, BROWN, SLATE};
