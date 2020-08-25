@@ -1,6 +1,7 @@
 #ifndef TEST
 #define TEST
 #include "telCoColorCoder.h"
+#include "manual.h"
 
 void testNumberToPair(int pairNumber,
     TelCoColorCoder::MajorColor expectedMajor,
