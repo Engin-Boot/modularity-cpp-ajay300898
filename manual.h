@@ -1,5 +1,6 @@
 #ifndef MANUAL
 #define MANUAL
+#include "telCoColorCoder.h"
 
 void getManualFromCode(int pairNumber)
 {
