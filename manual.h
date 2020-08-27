@@ -1,7 +1,7 @@
 #ifndef MANUAL
 #define MANUAL
 #include "telCoColorCoder.h"
-
+using namespace TelCoColorCoder;
 std::string getManualFromCode(int pairNumber)
 {
     TelCoColorCoder::ColorPair colorPair =
